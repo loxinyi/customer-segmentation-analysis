@@ -83,4 +83,10 @@ customer-segmentation-analysis/
 
 ## Attribution
 
-Adapted from an academic customer-segmentation notebook. The analysis and interpretations are documented for portfolio presentation. Add any collaborators or dataset attribution required by the original assignment before public publication.
+This project was developed as part of my Applied AI & Machine Learning coursework at Singapore Polytechnic.
+
+**My Contributions:**
+- Performed data cleaning, preprocessing and exploratory data analysis.
+- Implemented and compared K-Means, Agglomerative Clustering and Gaussian Mixture Models.
+- Evaluated clustering performance using three evaluation metrics.
+- Interpreted six customer segments and proposed targeted marketing strategies.
